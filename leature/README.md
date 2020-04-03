@@ -1,3 +1,2 @@
-#국민대학교 강의 중요 실습내용  
-
+#Kookmin univ. lecture folder
 과목마다 폴더생성
